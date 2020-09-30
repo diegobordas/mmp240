@@ -1,0 +1,24 @@
+body{
+font-family: arial;
+width:960px;
+margin-left:auto;
+margin-right: auto;
+border: dashed 2px rgb(214, 172, 120);
+padding: 20px;
+border-radius: 40px;}
+h1{
+  font-family: arial;
+  margin-bottom: 1em;
+  color:rgb(214, 172, 120);}
+h2{font-family: cursive;
+  color:rgb(214, 172, 120);}
+li{font-family: arial;}
+h1{
+  font-size:2.5rem;
+}
+li{
+  margin-bottom: 1em;
+}
+h2{
+  margin-top: 2em;
+}
